@@ -147,12 +147,6 @@ BREVO_API_KEY=<your_Brevo_api_key>
 
 ---
 
-## 🤝 Contributing
-
-🚀 Contributions are welcome! Feel free to open issues and pull requests to **improve the project**.
-
----
-
 ## 🐟 License
 
 This project is licensed under the **MIT License**.
@@ -165,4 +159,4 @@ For any inquiries, feel free to reach out via **GitHub** or email.
 
 ---
 
-🚀 **Start Exploring with Wanderlust Today!** 🌍
+⚠️ **Note:** This repository contains only the README file. The actual project is private. If you need access, please contact me.
